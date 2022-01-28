@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "TESLA",
+    "driver": "AZAMAT",
+    "state": "BASE"
+  },
+  {
+    "id": 2,
+    "name": "FORD",
+    "driver": "MURTAZA",
+    "state": "REPAIR"
+  },
+  {
+    "id": 3,
+    "name": "TOYOTA",
+    "driver": "ALMAZBEK",
+    "state": "ROUTE"
+  }
+]
